@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: photo.sbx.cr
+title: @sbxcr photos
 email: don@sbx.cr
 author:
   name: Don Carroll
